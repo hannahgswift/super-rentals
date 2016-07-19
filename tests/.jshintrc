@@ -23,6 +23,14 @@
     "currentURL",
     "currentPath",
     "currentRouteName"
+
+    "document",
+    "window",
+    "location",
+    ...
+    "shouldHaveElementWithCount",
+    "dblclick",
+    "addContact"
   ],
   "node": false,
   "browser": false,
